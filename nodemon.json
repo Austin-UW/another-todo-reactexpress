@@ -1,0 +1,4 @@
+{
+  "watch": ["server.js", "server/", "client/"],
+  "ext": "js, css, html, ts, ejs"
+}
